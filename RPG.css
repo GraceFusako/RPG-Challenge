@@ -1,0 +1,116 @@
+html {
+    font-family: "Lucida Console";
+    color: white;
+}
+body {
+    background-image: url(https://images.unsplash.com/photo-1506701234424-ef06760d8c8e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=936e1dfe17a85554008d1fe1995f055a&auto=format&fit=crop&w=2100&q=80);
+    font-size: 20px;
+    margin: 50px;
+}
+#title {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#seperation {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    padding: 20px;
+    text-align: center;
+}
+
+input {
+    width: 200px;
+    height: 150px;
+    border-color: white;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: white;
+    font-family: "Lucida Console";
+    font-size: 40px;
+    cursor: pointer;
+    border-radius: 2px;
+    padding: 20px;
+    position: absolute;
+}
+
+#start {
+    top: 60%;
+    right: 44%;
+}
+
+#sword {
+    top: 60%;
+    right: 64%;
+}
+
+#shield {
+    top: 60%;
+    right: 44%;
+}
+
+#bow {
+    top: 60%;
+    right: 24%;
+}
+
+#run {
+    top: 60%;
+    right: 24%;
+}
+
+#stab {
+    top: 60%;
+    right: 64%;
+}
+
+#slash {
+    top: 60%;
+    right: 44%;
+}
+
+#deflect {
+    top: 60%;
+    right: 64%;
+}
+
+#bash {
+    top: 60%;
+    right: 44%;
+}
+
+#fire {
+    top: 60%;
+    right: 64%;
+}
+
+#toss {
+    top: 60%;
+    right: 44%;
+}
+
+#retry {
+    top: 60%;
+    right: 44%;
+}
+
+input:hover {
+    background-color: #555;
+    color: white;
+}
+
+footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    text-align: center;
+}
